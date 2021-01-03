@@ -60,6 +60,8 @@ tree_nodes()        Returns all node information of a tree/sub-tree.
 
 - Possible to create a new tree from a given sub-tree.
 
+- The stack and queue data structures are from [here](https://github.com/gabrielegilardi/DataStructures.git)
+
 ## Examples and Notes
 
 See *test_BinaryTree.py* for examples and *BinaryTree.py* for a few notes.
